@@ -1,0 +1,15 @@
+D:\Projects\VS Projects\Lesson25.IO\15.DriveInfo\bin\Debug\net7.0\15.DriveInfo.exe
+D:\Projects\VS Projects\Lesson25.IO\15.DriveInfo\bin\Debug\net7.0\15.DriveInfo.deps.json
+D:\Projects\VS Projects\Lesson25.IO\15.DriveInfo\bin\Debug\net7.0\15.DriveInfo.runtimeconfig.json
+D:\Projects\VS Projects\Lesson25.IO\15.DriveInfo\bin\Debug\net7.0\15.DriveInfo.dll
+D:\Projects\VS Projects\Lesson25.IO\15.DriveInfo\bin\Debug\net7.0\15.DriveInfo.pdb
+D:\Projects\VS Projects\Lesson25.IO\15.DriveInfo\obj\Debug\net7.0\15.DriveInfo.csproj.AssemblyReference.cache
+D:\Projects\VS Projects\Lesson25.IO\15.DriveInfo\obj\Debug\net7.0\15.DriveInfo.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\VS Projects\Lesson25.IO\15.DriveInfo\obj\Debug\net7.0\15.DriveInfo.AssemblyInfoInputs.cache
+D:\Projects\VS Projects\Lesson25.IO\15.DriveInfo\obj\Debug\net7.0\15.DriveInfo.AssemblyInfo.cs
+D:\Projects\VS Projects\Lesson25.IO\15.DriveInfo\obj\Debug\net7.0\15.DriveInfo.csproj.CoreCompileInputs.cache
+D:\Projects\VS Projects\Lesson25.IO\15.DriveInfo\obj\Debug\net7.0\15.DriveInfo.dll
+D:\Projects\VS Projects\Lesson25.IO\15.DriveInfo\obj\Debug\net7.0\refint\15.DriveInfo.dll
+D:\Projects\VS Projects\Lesson25.IO\15.DriveInfo\obj\Debug\net7.0\15.DriveInfo.pdb
+D:\Projects\VS Projects\Lesson25.IO\15.DriveInfo\obj\Debug\net7.0\15.DriveInfo.genruntimeconfig.cache
+D:\Projects\VS Projects\Lesson25.IO\15.DriveInfo\obj\Debug\net7.0\ref\15.DriveInfo.dll

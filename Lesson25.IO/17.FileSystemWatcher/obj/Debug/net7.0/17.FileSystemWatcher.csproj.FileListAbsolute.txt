@@ -1,0 +1,15 @@
+D:\Projects\VS Projects\Lesson25.IO\17.FileSystemWatcher\bin\Debug\net7.0\17.FileSystemWatcher.exe
+D:\Projects\VS Projects\Lesson25.IO\17.FileSystemWatcher\bin\Debug\net7.0\17.FileSystemWatcher.deps.json
+D:\Projects\VS Projects\Lesson25.IO\17.FileSystemWatcher\bin\Debug\net7.0\17.FileSystemWatcher.runtimeconfig.json
+D:\Projects\VS Projects\Lesson25.IO\17.FileSystemWatcher\bin\Debug\net7.0\17.FileSystemWatcher.dll
+D:\Projects\VS Projects\Lesson25.IO\17.FileSystemWatcher\bin\Debug\net7.0\17.FileSystemWatcher.pdb
+D:\Projects\VS Projects\Lesson25.IO\17.FileSystemWatcher\obj\Debug\net7.0\17.FileSystemWatcher.csproj.AssemblyReference.cache
+D:\Projects\VS Projects\Lesson25.IO\17.FileSystemWatcher\obj\Debug\net7.0\17.FileSystemWatcher.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\VS Projects\Lesson25.IO\17.FileSystemWatcher\obj\Debug\net7.0\17.FileSystemWatcher.AssemblyInfoInputs.cache
+D:\Projects\VS Projects\Lesson25.IO\17.FileSystemWatcher\obj\Debug\net7.0\17.FileSystemWatcher.AssemblyInfo.cs
+D:\Projects\VS Projects\Lesson25.IO\17.FileSystemWatcher\obj\Debug\net7.0\17.FileSystemWatcher.csproj.CoreCompileInputs.cache
+D:\Projects\VS Projects\Lesson25.IO\17.FileSystemWatcher\obj\Debug\net7.0\17.FileSystemWatcher.dll
+D:\Projects\VS Projects\Lesson25.IO\17.FileSystemWatcher\obj\Debug\net7.0\refint\17.FileSystemWatcher.dll
+D:\Projects\VS Projects\Lesson25.IO\17.FileSystemWatcher\obj\Debug\net7.0\17.FileSystemWatcher.pdb
+D:\Projects\VS Projects\Lesson25.IO\17.FileSystemWatcher\obj\Debug\net7.0\17.FileSystemWatcher.genruntimeconfig.cache
+D:\Projects\VS Projects\Lesson25.IO\17.FileSystemWatcher\obj\Debug\net7.0\ref\17.FileSystemWatcher.dll

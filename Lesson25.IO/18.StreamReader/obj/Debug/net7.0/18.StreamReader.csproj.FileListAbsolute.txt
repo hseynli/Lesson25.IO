@@ -1,0 +1,15 @@
+D:\Projects\VS Projects\Lesson25.IO\18.StreamReader\bin\Debug\net7.0\18.StreamReader.exe
+D:\Projects\VS Projects\Lesson25.IO\18.StreamReader\bin\Debug\net7.0\18.StreamReader.deps.json
+D:\Projects\VS Projects\Lesson25.IO\18.StreamReader\bin\Debug\net7.0\18.StreamReader.runtimeconfig.json
+D:\Projects\VS Projects\Lesson25.IO\18.StreamReader\bin\Debug\net7.0\18.StreamReader.dll
+D:\Projects\VS Projects\Lesson25.IO\18.StreamReader\bin\Debug\net7.0\18.StreamReader.pdb
+D:\Projects\VS Projects\Lesson25.IO\18.StreamReader\obj\Debug\net7.0\18.StreamReader.csproj.AssemblyReference.cache
+D:\Projects\VS Projects\Lesson25.IO\18.StreamReader\obj\Debug\net7.0\18.StreamReader.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\VS Projects\Lesson25.IO\18.StreamReader\obj\Debug\net7.0\18.StreamReader.AssemblyInfoInputs.cache
+D:\Projects\VS Projects\Lesson25.IO\18.StreamReader\obj\Debug\net7.0\18.StreamReader.AssemblyInfo.cs
+D:\Projects\VS Projects\Lesson25.IO\18.StreamReader\obj\Debug\net7.0\18.StreamReader.csproj.CoreCompileInputs.cache
+D:\Projects\VS Projects\Lesson25.IO\18.StreamReader\obj\Debug\net7.0\18.StreamReader.dll
+D:\Projects\VS Projects\Lesson25.IO\18.StreamReader\obj\Debug\net7.0\refint\18.StreamReader.dll
+D:\Projects\VS Projects\Lesson25.IO\18.StreamReader\obj\Debug\net7.0\18.StreamReader.pdb
+D:\Projects\VS Projects\Lesson25.IO\18.StreamReader\obj\Debug\net7.0\18.StreamReader.genruntimeconfig.cache
+D:\Projects\VS Projects\Lesson25.IO\18.StreamReader\obj\Debug\net7.0\ref\18.StreamReader.dll

@@ -1,0 +1,15 @@
+D:\Projects\VS Projects\Lesson25.IO\19.StringReader\bin\Debug\net7.0\19.StringReader.exe
+D:\Projects\VS Projects\Lesson25.IO\19.StringReader\bin\Debug\net7.0\19.StringReader.deps.json
+D:\Projects\VS Projects\Lesson25.IO\19.StringReader\bin\Debug\net7.0\19.StringReader.runtimeconfig.json
+D:\Projects\VS Projects\Lesson25.IO\19.StringReader\bin\Debug\net7.0\19.StringReader.dll
+D:\Projects\VS Projects\Lesson25.IO\19.StringReader\bin\Debug\net7.0\19.StringReader.pdb
+D:\Projects\VS Projects\Lesson25.IO\19.StringReader\obj\Debug\net7.0\19.StringReader.csproj.AssemblyReference.cache
+D:\Projects\VS Projects\Lesson25.IO\19.StringReader\obj\Debug\net7.0\19.StringReader.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\VS Projects\Lesson25.IO\19.StringReader\obj\Debug\net7.0\19.StringReader.AssemblyInfoInputs.cache
+D:\Projects\VS Projects\Lesson25.IO\19.StringReader\obj\Debug\net7.0\19.StringReader.AssemblyInfo.cs
+D:\Projects\VS Projects\Lesson25.IO\19.StringReader\obj\Debug\net7.0\19.StringReader.csproj.CoreCompileInputs.cache
+D:\Projects\VS Projects\Lesson25.IO\19.StringReader\obj\Debug\net7.0\19.StringReader.dll
+D:\Projects\VS Projects\Lesson25.IO\19.StringReader\obj\Debug\net7.0\refint\19.StringReader.dll
+D:\Projects\VS Projects\Lesson25.IO\19.StringReader\obj\Debug\net7.0\19.StringReader.pdb
+D:\Projects\VS Projects\Lesson25.IO\19.StringReader\obj\Debug\net7.0\19.StringReader.genruntimeconfig.cache
+D:\Projects\VS Projects\Lesson25.IO\19.StringReader\obj\Debug\net7.0\ref\19.StringReader.dll

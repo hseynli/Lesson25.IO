@@ -1,0 +1,15 @@
+D:\Projects\VS Projects\Lesson25.IO\20.StringWriter\bin\Debug\net7.0\20.StringWriter.exe
+D:\Projects\VS Projects\Lesson25.IO\20.StringWriter\bin\Debug\net7.0\20.StringWriter.deps.json
+D:\Projects\VS Projects\Lesson25.IO\20.StringWriter\bin\Debug\net7.0\20.StringWriter.runtimeconfig.json
+D:\Projects\VS Projects\Lesson25.IO\20.StringWriter\bin\Debug\net7.0\20.StringWriter.dll
+D:\Projects\VS Projects\Lesson25.IO\20.StringWriter\bin\Debug\net7.0\20.StringWriter.pdb
+D:\Projects\VS Projects\Lesson25.IO\20.StringWriter\obj\Debug\net7.0\20.StringWriter.csproj.AssemblyReference.cache
+D:\Projects\VS Projects\Lesson25.IO\20.StringWriter\obj\Debug\net7.0\20.StringWriter.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\VS Projects\Lesson25.IO\20.StringWriter\obj\Debug\net7.0\20.StringWriter.AssemblyInfoInputs.cache
+D:\Projects\VS Projects\Lesson25.IO\20.StringWriter\obj\Debug\net7.0\20.StringWriter.AssemblyInfo.cs
+D:\Projects\VS Projects\Lesson25.IO\20.StringWriter\obj\Debug\net7.0\20.StringWriter.csproj.CoreCompileInputs.cache
+D:\Projects\VS Projects\Lesson25.IO\20.StringWriter\obj\Debug\net7.0\20.StringWriter.dll
+D:\Projects\VS Projects\Lesson25.IO\20.StringWriter\obj\Debug\net7.0\refint\20.StringWriter.dll
+D:\Projects\VS Projects\Lesson25.IO\20.StringWriter\obj\Debug\net7.0\20.StringWriter.pdb
+D:\Projects\VS Projects\Lesson25.IO\20.StringWriter\obj\Debug\net7.0\20.StringWriter.genruntimeconfig.cache
+D:\Projects\VS Projects\Lesson25.IO\20.StringWriter\obj\Debug\net7.0\ref\20.StringWriter.dll

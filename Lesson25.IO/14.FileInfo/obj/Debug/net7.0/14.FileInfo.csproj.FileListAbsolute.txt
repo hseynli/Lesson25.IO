@@ -1,0 +1,15 @@
+D:\Projects\VS Projects\Lesson25.IO\14.FileInfo\bin\Debug\net7.0\14.FileInfo.exe
+D:\Projects\VS Projects\Lesson25.IO\14.FileInfo\bin\Debug\net7.0\14.FileInfo.deps.json
+D:\Projects\VS Projects\Lesson25.IO\14.FileInfo\bin\Debug\net7.0\14.FileInfo.runtimeconfig.json
+D:\Projects\VS Projects\Lesson25.IO\14.FileInfo\bin\Debug\net7.0\14.FileInfo.dll
+D:\Projects\VS Projects\Lesson25.IO\14.FileInfo\bin\Debug\net7.0\14.FileInfo.pdb
+D:\Projects\VS Projects\Lesson25.IO\14.FileInfo\obj\Debug\net7.0\14.FileInfo.csproj.AssemblyReference.cache
+D:\Projects\VS Projects\Lesson25.IO\14.FileInfo\obj\Debug\net7.0\14.FileInfo.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\VS Projects\Lesson25.IO\14.FileInfo\obj\Debug\net7.0\14.FileInfo.AssemblyInfoInputs.cache
+D:\Projects\VS Projects\Lesson25.IO\14.FileInfo\obj\Debug\net7.0\14.FileInfo.AssemblyInfo.cs
+D:\Projects\VS Projects\Lesson25.IO\14.FileInfo\obj\Debug\net7.0\14.FileInfo.csproj.CoreCompileInputs.cache
+D:\Projects\VS Projects\Lesson25.IO\14.FileInfo\obj\Debug\net7.0\14.FileInfo.dll
+D:\Projects\VS Projects\Lesson25.IO\14.FileInfo\obj\Debug\net7.0\refint\14.FileInfo.dll
+D:\Projects\VS Projects\Lesson25.IO\14.FileInfo\obj\Debug\net7.0\14.FileInfo.pdb
+D:\Projects\VS Projects\Lesson25.IO\14.FileInfo\obj\Debug\net7.0\14.FileInfo.genruntimeconfig.cache
+D:\Projects\VS Projects\Lesson25.IO\14.FileInfo\obj\Debug\net7.0\ref\14.FileInfo.dll
